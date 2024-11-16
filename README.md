@@ -11,6 +11,6 @@ Blog Section: Area to feature blog articles and engage customers with additional
 Footer: Includes quick links, contact information, and social media icons.
 
 # Preview
-#1.![Screenshot 2024-11-16 at 6 16 16 PM](https://github.com/user-attachments/assets/21ee0295-f062-46ba-bd78-f0886ca97481)
+1.![Screenshot 2024-11-16 at 6 16 16 PM](https://github.com/user-attachments/assets/21ee0295-f062-46ba-bd78-f0886ca97481)
 
-#2,![Screenshot 2024-11-16 at 6 16 36 PM](https://github.com/user-attachments/assets/fd25149f-f240-48ec-a842-b0f45194fe56)
+2![Screenshot 2024-11-16 at 6 16 36 PM](https://github.com/user-attachments/assets/fd25149f-f240-48ec-a842-b0f45194fe56)
